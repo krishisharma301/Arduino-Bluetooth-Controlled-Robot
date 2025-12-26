@@ -1,4 +1,4 @@
-# 🤖 Arduino Bluetooth Controlled Robot
+# 🤖 Arduino HC-05 Bluetooth Controlled Robot
 
 🔧 Developed using **Arduino (UNO/Nano)** and **Embedded C (Arduino IDE)**  
 📱 Controlled wirelessly via **HC-05 Bluetooth Module** and Android app
